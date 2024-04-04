@@ -13,4 +13,4 @@ https://www.figma.com/file/Ft9pfyDs8S3FNc13edseba/Untitled?type=design&node-id=0
 - DmitriyLarin
 - NikolaiScripnik
 
-# Buy me cup of tea:
+# Buy me a cup of tea:
